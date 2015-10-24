@@ -1,4 +1,4 @@
-package com.example.tualatin.hellostudent;
+package com.example.tualatin.hellostudent.model;
 
 /**
  * Created by TUALATIN on 10/24/2015.
